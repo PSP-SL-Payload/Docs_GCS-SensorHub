@@ -25,7 +25,6 @@
 var NAVTREE =
 [
   [ "PSP GCS SensorHub", "index.html", [
-    [ "utils", "dc/db0/md__c___p_s_p_utils__r_e_a_d_m_e.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -53,7 +52,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"de/db1/struct_serial_interface_1_1_test_packet_data.html#ad8a95a4d72153ae2b57f285b488eb860"
+"de/dbf/_vector_definitions_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
