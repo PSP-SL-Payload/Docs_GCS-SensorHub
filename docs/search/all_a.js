@@ -1,14 +1,20 @@
 var searchData=
 [
-  ['main_0',['main',['../dc/d2f/libraries_2libs_2_vector_2examples_2_platform_i_o_2src_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;main.cpp'],['../dc/d41/test__vector_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;test_vector.cpp']]],
-  ['main_2ecpp_1',['main.cpp',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html',1,'(Global Namespace)'],['../dc/d2f/libraries_2libs_2_vector_2examples_2_platform_i_o_2src_2main_8cpp.html',1,'(Global Namespace)']]],
-  ['max_5fsize_2',['max_size',['../d5/db2/class_vector.html#a442b72c70b33b62d49c99845385bba51',1,'Vector']]],
-  ['message_3',['message',['../d7/d43/struct_serial_interface_1_1_msg_packet_data.html#a3e8eadd232875b6cb1de1e8cb9869a1b',1,'SerialInterface::MsgPacketData']]],
-  ['meterstofeet_4',['MetersToFeet',['../d3/d98/class_conversions.html#a27f762350494321301cb31ee0463a8b0',1,'Conversions']]],
-  ['millisecond_5',['millisecond',['../db/d0d/struct_logger_1_1_log_time_struct.html#a92a1d683ac773945bdd05dab684a19ef',1,'Logger::LogTimeStruct']]],
-  ['milliseconds_6',['milliseconds',['../dd/d8b/struct_radio_1_1time_packet_data.html#a2a8f62b850e5052cfd4c1cf630693b06',1,'Radio::timePacketData']]],
-  ['minute_7',['minute',['../dc/db2/struct_g_p_s_1_1gps_date_time.html#a916d1cf25708023bd8c888afe8d6a484',1,'GPS::gpsDateTime::minute()'],['../dd/d8b/struct_radio_1_1time_packet_data.html#aaf1d60b8c8170f41cbeebe2a7a2447a5',1,'Radio::timePacketData::minute()'],['../db/d0d/struct_logger_1_1_log_time_struct.html#a7d8a0c53c054afd09cfa211aa525ee2f',1,'Logger::LogTimeStruct::minute()']]],
-  ['month_8',['month',['../dc/db2/struct_g_p_s_1_1gps_date_time.html#aa64cf59c56ee6adf6016ee9e18476ed4',1,'GPS::gpsDateTime::month()'],['../dd/d8b/struct_radio_1_1time_packet_data.html#a79246308ad7c7a48e4bcb962d51c7bb8',1,'Radio::timePacketData::month()']]],
-  ['msg_5fpacket_5fid_9',['MSG_PACKET_ID',['../d8/dec/class_serial_interface.html#a075fc00c48efecd651471c2c4b6d5133',1,'SerialInterface']]],
-  ['msgpacketdata_10',['MsgPacketData',['../d7/d43/struct_serial_interface_1_1_msg_packet_data.html',1,'SerialInterface']]]
+  ['latitude_0',['latitude',['../dd/d56/struct_g_p_s_1_1gps_location.html#a65b372147488a6881f831384f2de472f',1,'GPS::gpsLocation::latitude()'],['../df/d64/struct_radio_packet_1_1gps_coords_packet_data.html#a1b6c2b4f0784df28667e6c48061f6304',1,'RadioPacket::gpsCoordsPacketData::latitude()']]],
+  ['log_5fdebug_1',['LOG_DEBUG',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36a21c8a751a14ab84880af312ad8f596a0',1,'Logger']]],
+  ['log_5fdebug_5fmsg_2',['LOG_DEBUG_MSG',['../d1/d33/libraries_2libs_2_logger_2_logger_8h.html#acc6427cb47a5ba7b91ebdf4a34d72477',1,'LOG_DEBUG_MSG():&#160;Logger.h'],['../d4/dc0/utils_2inc_2_logger_8h.html#acc6427cb47a5ba7b91ebdf4a34d72477',1,'LOG_DEBUG_MSG():&#160;Logger.h']]],
+  ['log_5ferr_3',['LOG_ERR',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36ad53ab68f8e0ca9d40c9f36753de1421d',1,'Logger']]],
+  ['log_5ferr_5fmsg_4',['LOG_ERR_MSG',['../d1/d33/libraries_2libs_2_logger_2_logger_8h.html#a57fad59d067bf9917fd6eaf4c16a68f8',1,'LOG_ERR_MSG():&#160;Logger.h'],['../d4/dc0/utils_2inc_2_logger_8h.html#a57fad59d067bf9917fd6eaf4c16a68f8',1,'LOG_ERR_MSG():&#160;Logger.h']]],
+  ['log_5finfo_5',['LOG_INFO',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36a23ba38202c659fedb6769502cc0fdf2f',1,'Logger']]],
+  ['log_5finfo_5fmsg_6',['LOG_INFO_MSG',['../d1/d33/libraries_2libs_2_logger_2_logger_8h.html#ab3b3c2567d64b7caf5409491c860daa5',1,'LOG_INFO_MSG():&#160;Logger.h'],['../d4/dc0/utils_2inc_2_logger_8h.html#ab3b3c2567d64b7caf5409491c860daa5',1,'LOG_INFO_MSG():&#160;Logger.h']]],
+  ['log_5fwarn_7',['LOG_WARN',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36a540f2096db43c4b5409beaa880574301',1,'Logger']]],
+  ['log_5fwarn_5fmsg_8',['LOG_WARN_MSG',['../d1/d33/libraries_2libs_2_logger_2_logger_8h.html#a653bb936d9ac052b8dc2bfdd0ef26ea0',1,'LOG_WARN_MSG():&#160;Logger.h'],['../d4/dc0/utils_2inc_2_logger_8h.html#a653bb936d9ac052b8dc2bfdd0ef26ea0',1,'LOG_WARN_MSG():&#160;Logger.h']]],
+  ['logger_9',['Logger',['../d3/d42/class_logger.html',1,'']]],
+  ['logger_2ecpp_10',['Logger.cpp',['../de/dd4/libraries_2libs_2_logger_2_logger_8cpp.html',1,'(Global Namespace)'],['../d9/d0d/utils_2src_2_logger_8cpp.html',1,'(Global Namespace)']]],
+  ['logger_2eh_11',['Logger.h',['../d1/d33/libraries_2libs_2_logger_2_logger_8h.html',1,'(Global Namespace)'],['../d4/dc0/utils_2inc_2_logger_8h.html',1,'(Global Namespace)']]],
+  ['loglevel_12',['LogLevel',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36',1,'Logger::LogLevel()'],['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36',1,'Logger::LogLevel()']]],
+  ['lognewline_13',['LogNewLine',['../d9/d7a/class_t_f_t.html#ab27086ec48a592c4fd90d0b5588b68f9',1,'TFT']]],
+  ['logtimestruct_14',['LogTimeStruct',['../db/d0d/struct_logger_1_1_log_time_struct.html',1,'Logger']]],
+  ['longitude_15',['longitude',['../dd/d56/struct_g_p_s_1_1gps_location.html#abca14694f5a1d665b0a3e2ea43b91f21',1,'GPS::gpsLocation::longitude()'],['../df/d64/struct_radio_packet_1_1gps_coords_packet_data.html#a4a046baf0bd505c66cffdb8d98410e68',1,'RadioPacket::gpsCoordsPacketData::longitude()']]],
+  ['loop_16',['loop',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#afe461d27b9c48d5921c00d521181f12f',1,'main.cpp']]]
 ];

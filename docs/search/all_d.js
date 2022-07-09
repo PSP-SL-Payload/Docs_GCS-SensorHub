@@ -1,21 +1,8 @@
 var searchData=
 [
-  ['packetid_0',['packetID',['../dc/d4f/struct_serial_interface_1_1_serial_packet_node.html#ab0e75a1da42114a47e2304e79aaabb82',1,'SerialInterface::SerialPacketNode']]],
-  ['packetpayloadtype_1',['packetPayloadType',['../d2/d5b/union_radio_1_1packet_payload_type.html',1,'Radio']]],
-  ['packetpayloadtypes_2',['PacketPayloadTypes',['../d2/d23/class_radio.html#afd6ff59cbee3ae9e93f4ccadbdc0e7ee',1,'Radio']]],
-  ['poinouts_2eh_3',['poinouts.h',['../dd/d36/poinouts_8h.html',1,'']]],
-  ['pop_5fback_4',['pop_back',['../d5/db2/class_vector.html#adcba035109febbe55cba2a25f8483ba6',1,'Vector']]],
-  ['press_5',['press',['../d2/d35/struct_altimeter_1_1_altimeter_readings.html#a23cdf76b3eec2dc24b1bac1e28fc4c8d',1,'Altimeter::AltimeterReadings']]],
-  ['print_6',['Print',['../d3/d42/class_logger.html#ad1cd558b1eebf32fe8c266e6136833fa',1,'Logger']]],
-  ['printallpacketdata_7',['PrintAllPacketData',['../d2/d23/class_radio.html#a9161022fa5e4b2560b2c29f30ca74700',1,'Radio']]],
-  ['printallreadings_8',['PrintAllReadings',['../d6/d76/class_altimeter.html#a274b6fb8f1abd163f4b1f084b90811ab',1,'Altimeter']]],
-  ['printdatetime_9',['PrintDateTime',['../d1/d58/class_g_p_s.html#ac954848ac4b4d88b09aa90b20f25225a',1,'GPS']]],
-  ['printlocation_10',['PrintLocation',['../d1/d58/class_g_p_s.html#a0dbcb6671a3e662e9000b0a28b3c4e15',1,'GPS']]],
-  ['printpacket_11',['PrintPacket',['../d8/dec/class_serial_interface.html#ac1fa8b01622a84fe73d4f9589b559220',1,'SerialInterface']]],
-  ['printpacketflagbits_12',['PrintPacketFlagBits',['../d2/d23/class_radio.html#a856fbee450858d48635aab7ab72a91bc',1,'Radio::PrintPacketFlagBits(const uint8_t flagByte)'],['../d2/d23/class_radio.html#abab5190de0df1dcdaadb4f04174da387',1,'Radio::PrintPacketFlagBits(radioPacket &amp;packet)']]],
-  ['printpacketpayload_13',['PrintPacketPayload',['../d2/d23/class_radio.html#a8f32c42bb9dad76ca6a4bb3e9d509859',1,'Radio']]],
-  ['printpacketsinbuffer_14',['PrintPacketsInBuffer',['../d8/dec/class_serial_interface.html#a2521188c0b35b2f38ef0a63c9b3343c4',1,'SerialInterface']]],
-  ['printreadingsaccel_15',['PrintReadingsAccel',['../dd/d3c/class_i_m_u.html#a344c53c3f11116e22d4901bd4d01e10c',1,'IMU']]],
-  ['printreadingsgyro_16',['PrintReadingsGyro',['../dd/d3c/class_i_m_u.html#a2cac91a4d37e0583110263673f815a2f',1,'IMU']]],
-  ['push_5fback_17',['push_back',['../d5/db2/class_vector.html#a4415960a83615855ec32f8169f641786',1,'Vector']]]
+  ['operator_21_3d_0',['operator!=',['../da/dbc/class_vector_iterator.html#afdd44820ff90e2589cb02f18d81b8326',1,'VectorIterator']]],
+  ['operator_2a_1',['operator*',['../da/dbc/class_vector_iterator.html#a66c1c9e1fcccc2b15cf1890e04880a0f',1,'VectorIterator']]],
+  ['operator_2b_2b_2',['operator++',['../da/dbc/class_vector_iterator.html#a59ff977f83696ca2af6eadf05d0967a5',1,'VectorIterator']]],
+  ['operator_3d_3d_3',['operator==',['../da/dbc/class_vector_iterator.html#aed2974921827f96dc038b8f5e8abb8e4',1,'VectorIterator']]],
+  ['operator_5b_5d_4',['operator[]',['../d5/db2/class_vector.html#a63cc62738d6c877aed773260d1f5d925',1,'Vector::operator[](size_t index) const'],['../d5/db2/class_vector.html#a314b19cea6ad9ce76457e24ac8264bd8',1,'Vector::operator[](size_t index)']]]
 ];

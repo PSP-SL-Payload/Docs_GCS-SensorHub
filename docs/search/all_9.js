@@ -1,19 +1,5 @@
 var searchData=
 [
-  ['latitude_0',['latitude',['../dd/d56/struct_g_p_s_1_1gps_location.html#a65b372147488a6881f831384f2de472f',1,'GPS::gpsLocation::latitude()'],['../d2/d10/struct_radio_1_1gps_coords_packet_data.html#af90df237b95f583227f6f7c00c6c0946',1,'Radio::gpsCoordsPacketData::latitude()']]],
-  ['log_5fdebug_1',['LOG_DEBUG',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36a3d390e12a16a389ee2d0d496bd692890',1,'Logger']]],
-  ['log_5fdebug_5fmsg_2',['LOG_DEBUG_MSG',['../d6/dec/_logger_8h.html#acc6427cb47a5ba7b91ebdf4a34d72477',1,'Logger.h']]],
-  ['log_5ferr_3',['LOG_ERR',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36af0dee010a8883ffd1c2c7c7a000ec9a5',1,'Logger']]],
-  ['log_5ferr_5fmsg_4',['LOG_ERR_MSG',['../d6/dec/_logger_8h.html#a57fad59d067bf9917fd6eaf4c16a68f8',1,'Logger.h']]],
-  ['log_5finfo_5',['LOG_INFO',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36a486a2070742e8847e3a14d39cfc639bb',1,'Logger']]],
-  ['log_5finfo_5fmsg_6',['LOG_INFO_MSG',['../d6/dec/_logger_8h.html#ab3b3c2567d64b7caf5409491c860daa5',1,'Logger.h']]],
-  ['log_5fwarn_7',['LOG_WARN',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36a3d98e5059c1468fc0ce31d0c4367073f',1,'Logger']]],
-  ['log_5fwarn_5fmsg_8',['LOG_WARN_MSG',['../d6/dec/_logger_8h.html#a653bb936d9ac052b8dc2bfdd0ef26ea0',1,'Logger.h']]],
-  ['logger_9',['Logger',['../d3/d42/class_logger.html',1,'']]],
-  ['logger_2ecpp_10',['Logger.cpp',['../de/d27/_logger_8cpp.html',1,'']]],
-  ['logger_2eh_11',['Logger.h',['../d6/dec/_logger_8h.html',1,'']]],
-  ['loglevel_12',['LogLevel',['../d3/d42/class_logger.html#ac744681e23720966b5f430ec2060da36',1,'Logger']]],
-  ['logtimestruct_13',['LogTimeStruct',['../db/d0d/struct_logger_1_1_log_time_struct.html',1,'Logger']]],
-  ['longitude_14',['longitude',['../dd/d56/struct_g_p_s_1_1gps_location.html#abca14694f5a1d665b0a3e2ea43b91f21',1,'GPS::gpsLocation::longitude()'],['../d2/d10/struct_radio_1_1gps_coords_packet_data.html#a0e579627951c45c08cba9a8715cfcfdc',1,'Radio::gpsCoordsPacketData::longitude()']]],
-  ['loop_15',['loop',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#afe461d27b9c48d5921c00d521181f12f',1,'main.cpp']]]
+  ['kadefunctionlooper_0',['KadeFunctionLooper',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#a217996af7eb6b92d382678515f197d22',1,'main.cpp']]],
+  ['kadefunctionsetup_1',['KadeFunctionSetup',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#ab56d4953ffb74fc60b6f2af64e2c1a2b',1,'main.cpp']]]
 ];

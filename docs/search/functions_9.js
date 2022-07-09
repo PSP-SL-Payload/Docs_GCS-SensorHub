@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['main_0',['main',['../dc/d2f/libraries_2libs_2_vector_2examples_2_platform_i_o_2src_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;main.cpp'],['../dc/d41/test__vector_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;test_vector.cpp']]],
-  ['max_5fsize_1',['max_size',['../d5/db2/class_vector.html#a442b72c70b33b62d49c99845385bba51',1,'Vector']]],
-  ['meterstofeet_2',['MetersToFeet',['../d3/d98/class_conversions.html#a27f762350494321301cb31ee0463a8b0',1,'Conversions']]]
+  ['lognewline_0',['LogNewLine',['../d9/d7a/class_t_f_t.html#ab27086ec48a592c4fd90d0b5588b68f9',1,'TFT']]],
+  ['loop_1',['loop',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#afe461d27b9c48d5921c00d521181f12f',1,'main.cpp']]]
 ];
