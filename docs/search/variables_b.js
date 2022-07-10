@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['radio_0',['radio',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#a324ee0ba2e9626c90200f6128ee8ca5a',1,'main.cpp']]]
+  ['second_0',['second',['../dc/db2/struct_g_p_s_1_1gps_date_time.html#ac19066c35406e6abda421203dec77d56',1,'GPS::gpsDateTime::second()'],['../db/d0d/struct_logger_1_1_log_time_struct.html#ab202b3732dbdaef03630bebcdf7fb92d',1,'Logger::LogTimeStruct::second()'],['../d7/d5a/struct_radio_packet_1_1time_packet_data.html#aa20d8d6de0b5c4062e9afd96f34935f5',1,'RadioPacket::timePacketData::second()']]],
+  ['storage_1',['storage',['../dc/d2f/libraries_2libs_2_vector_2examples_2_platform_i_o_2src_2main_8cpp.html#a87be20e83ef65d43452ced0b8a4b2189',1,'main.cpp']]],
+  ['stringdata_2',['stringData',['../d2/d55/union_radio_packet_1_1packet_payload_type.html#a18277c76f0b1e9fdccc2d65f4c69a3c1',1,'RadioPacket::packetPayloadType']]]
 ];
