@@ -25,6 +25,58 @@
 var NAVTREE =
 [
   [ "PSP GCS SensorHub", "index.html", [
+    [ "What is the <tt>Altimeter</tt> abstract class?", "d7/dc0/md__c___p_s_p_libraries_libs__altimeter__r_e_a_d_m_e.html", [
+      [ "When should I use this class?", "d7/dc0/md__c___p_s_p_libraries_libs__altimeter__r_e_a_d_m_e.html#autotoc_md1", [
+        [ "Having functions that need an Altimeter", "d7/dc0/md__c___p_s_p_libraries_libs__altimeter__r_e_a_d_m_e.html#autotoc_md2", null ],
+        [ "Making child classes", "d7/dc0/md__c___p_s_p_libraries_libs__altimeter__r_e_a_d_m_e.html#autotoc_md3", null ]
+      ] ],
+      [ "Example Test Code (change pins and such accordingly)", "d7/dc0/md__c___p_s_p_libraries_libs__altimeter__r_e_a_d_m_e.html#autotoc_md4", null ]
+    ] ],
+    [ "Altimeter_BMP280", "d7/d33/md__c___p_s_p_libraries_libs__altimeter__b_m_p280__r_e_a_d_m_e.html", [
+      [ "Example Test Code", "d7/d33/md__c___p_s_p_libraries_libs__altimeter__b_m_p280__r_e_a_d_m_e.html#autotoc_md6", null ]
+    ] ],
+    [ "What is the <tt>GPS</tt> abstract class?", "dc/dc1/md__c___p_s_p_libraries_libs__g_p_s__r_e_a_d_m_e.html", [
+      [ "When should I use this class?", "dc/dc1/md__c___p_s_p_libraries_libs__g_p_s__r_e_a_d_m_e.html#autotoc_md8", [
+        [ "Having functions that need a GPS", "dc/dc1/md__c___p_s_p_libraries_libs__g_p_s__r_e_a_d_m_e.html#autotoc_md9", null ],
+        [ "Making child classes", "dc/dc1/md__c___p_s_p_libraries_libs__g_p_s__r_e_a_d_m_e.html#autotoc_md10", null ]
+      ] ],
+      [ "Example Test Code (change pins and such accordingly)", "dc/dc1/md__c___p_s_p_libraries_libs__g_p_s__r_e_a_d_m_e.html#autotoc_md11", null ]
+    ] ],
+    [ "GPS_SAM_M8Q", "d4/dcf/md__c___p_s_p_libraries_libs__g_p_s__s_a_m__m8_q__r_e_a_d_m_e.html", [
+      [ "Example Test Code", "d4/dcf/md__c___p_s_p_libraries_libs__g_p_s__s_a_m__m8_q__r_e_a_d_m_e.html#autotoc_md13", null ]
+    ] ],
+    [ "What is the <tt>IMU</tt> abstract class?", "db/d6c/md__c___p_s_p_libraries_libs__i_m_u__r_e_a_d_m_e.html", [
+      [ "When should I use this class?", "db/d6c/md__c___p_s_p_libraries_libs__i_m_u__r_e_a_d_m_e.html#autotoc_md15", [
+        [ "Having functions that need a IMU", "db/d6c/md__c___p_s_p_libraries_libs__i_m_u__r_e_a_d_m_e.html#autotoc_md16", null ],
+        [ "Making child classes", "db/d6c/md__c___p_s_p_libraries_libs__i_m_u__r_e_a_d_m_e.html#autotoc_md17", null ]
+      ] ],
+      [ "Example Test Code (change pins and such accordingly)", "db/d6c/md__c___p_s_p_libraries_libs__i_m_u__r_e_a_d_m_e.html#autotoc_md18", null ]
+    ] ],
+    [ "IMU_LSM6x", "db/de0/md__c___p_s_p_libraries_libs__i_m_u__l_s_m6x__r_e_a_d_m_e.html", [
+      [ "Example Test Code", "db/de0/md__c___p_s_p_libraries_libs__i_m_u__l_s_m6x__r_e_a_d_m_e.html#autotoc_md20", null ]
+    ] ],
+    [ "What is the <tt>Radio</tt> abstract class?", "dd/d69/md__c___p_s_p_libraries_libs__radio__r_e_a_d_m_e.html", [
+      [ "How does the communication work?", "dd/d69/md__c___p_s_p_libraries_libs__radio__r_e_a_d_m_e.html#autotoc_md22", null ],
+      [ "When should I use this class?", "dd/d69/md__c___p_s_p_libraries_libs__radio__r_e_a_d_m_e.html#autotoc_md23", [
+        [ "Having functions that need a Radio", "dd/d69/md__c___p_s_p_libraries_libs__radio__r_e_a_d_m_e.html#autotoc_md24", null ],
+        [ "Making child classes", "dd/d69/md__c___p_s_p_libraries_libs__radio__r_e_a_d_m_e.html#autotoc_md25", null ]
+      ] ],
+      [ "Example Test Code (change pins and such accordingly)", "dd/d69/md__c___p_s_p_libraries_libs__radio__r_e_a_d_m_e.html#autotoc_md26", null ]
+    ] ],
+    [ "Radio_433T30D", "d6/d4c/md__c___p_s_p_libraries_libs__radio_433_t30_d__r_e_a_d_m_e.html", [
+      [ "Example Test Code", "d6/d4c/md__c___p_s_p_libraries_libs__radio_433_t30_d__r_e_a_d_m_e.html#autotoc_md29", null ],
+      [ "Results", "d6/d4c/md__c___p_s_p_libraries_libs__radio_433_t30_d__r_e_a_d_m_e.html#autotoc_md30", null ],
+      [ "Extra Compatabilities", "d6/d4c/md__c___p_s_p_libraries_libs__radio_433_t30_d__r_e_a_d_m_e.html#autotoc_md31", null ]
+    ] ],
+    [ "RadioPacket", "d5/d28/md__c___p_s_p_libraries_libs__radio_packet__r_e_a_d_m_e.html", [
+      [ "Useful Information", "d5/d28/md__c___p_s_p_libraries_libs__radio_packet__r_e_a_d_m_e.html#autotoc_md33", null ]
+    ] ],
+    [ "What is the <tt>SerialInterface</tt> abstract class?", "d7/d8d/md__c___p_s_p_libraries_libs__serial_interface__r_e_a_d_m_e.html", [
+      [ "When should I use this class?", "d7/d8d/md__c___p_s_p_libraries_libs__serial_interface__r_e_a_d_m_e.html#autotoc_md35", [
+        [ "Making child classes", "d7/d8d/md__c___p_s_p_libraries_libs__serial_interface__r_e_a_d_m_e.html#autotoc_md36", null ]
+      ] ],
+      [ "Example Test Code (change names accordingly)", "d7/d8d/md__c___p_s_p_libraries_libs__serial_interface__r_e_a_d_m_e.html#autotoc_md37", null ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -53,7 +105,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d8/dec/class_serial_interface.html#ac769a6c25e9ddad370c3237d8604a24b"
+"d6/d76/class_altimeter.html#ac2d2f7e03c59604e9883139d6caf038e",
+"dir_674b968e0211b1b03c07f6e977d0f912.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
