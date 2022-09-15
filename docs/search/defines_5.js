@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['spi_5fclk_0',['SPI_CLK',['../d7/db5/pinouts_8h.html#af3cfe48f6efdc257518227b43c1bc3df',1,'pinouts.h']]],
-  ['spi_5fmiso_1',['SPI_MISO',['../d7/db5/pinouts_8h.html#ab142cc77dfa97010c9d2b616d0992b64',1,'pinouts.h']]],
-  ['spi_5fmosi_2',['SPI_MOSI',['../d7/db5/pinouts_8h.html#a7dbebab5f7dd57885adccf6711b13592',1,'pinouts.h']]]
+  ['radio_5faux_5fpin_0',['RADIO_AUX_PIN',['../d7/db5/pinouts_8h.html#abe127c35b0b015835e7fab6439f51a6d',1,'pinouts.h']]],
+  ['radio_5fm0_5fpin_1',['RADIO_M0_PIN',['../d7/db5/pinouts_8h.html#a38f340af0cf217b10cfe6ec78fc8c54a',1,'pinouts.h']]],
+  ['radio_5fm1_5fpin_2',['RADIO_M1_PIN',['../d7/db5/pinouts_8h.html#a08ee2afafea486f530a01caf64787ac6',1,'pinouts.h']]]
 ];

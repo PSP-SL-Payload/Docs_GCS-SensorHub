@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['kadefunction_0',['KadeFunction',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#a389f3f449a4232ec54a13a9d22192301',1,'main.cpp']]]
+  ['j_0',['j',['../d3/d11/struct_i_m_u__9_d_o_f_1_1_quaternion.html#a59ece2207a6ef3c4ca128512e24f6fb9',1,'IMU_9DOF::Quaternion']]]
 ];

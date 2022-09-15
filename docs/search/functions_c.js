@@ -11,16 +11,18 @@ var searchData=
   ['parseuint8_8',['ParseUInt8',['../d8/dec/class_serial_interface.html#a5876b42315d7db4a2f516a7ee5d0515e',1,'SerialInterface']]],
   ['pop_5fback_9',['pop_back',['../d5/db2/class_vector.html#adcba035109febbe55cba2a25f8483ba6',1,'Vector']]],
   ['print_10',['Print',['../d3/d42/class_logger.html#ad1cd558b1eebf32fe8c266e6136833fa',1,'Logger']]],
-  ['printallpacketdata_11',['PrintAllPacketData',['../d5/de8/class_radio_packet.html#ac940ca552de756cdcdf0563b3f3a5c71',1,'RadioPacket']]],
+  ['printallpacketdata_11',['PrintAllPacketData',['../d5/de8/class_radio_packet.html#ac0cc63ee9b041c9ef24e5122caf41e75',1,'RadioPacket']]],
   ['printallreadings_12',['PrintAllReadings',['../d6/d76/class_altimeter.html#a274b6fb8f1abd163f4b1f084b90811ab',1,'Altimeter']]],
   ['printdatetime_13',['PrintDateTime',['../d1/d58/class_g_p_s.html#ac954848ac4b4d88b09aa90b20f25225a',1,'GPS']]],
   ['printlocation_14',['PrintLocation',['../d1/d58/class_g_p_s.html#a0dbcb6671a3e662e9000b0a28b3c4e15',1,'GPS']]],
   ['printpacket_15',['PrintPacket',['../d8/dec/class_serial_interface.html#ad64df53b5a57ebadd950c216113e7e48',1,'SerialInterface']]],
-  ['printpacketflagbits_16',['PrintPacketFlagBits',['../d5/de8/class_radio_packet.html#a358661ca8159098c184dcc979434df03',1,'RadioPacket::PrintPacketFlagBits(char *flagBitLine=nullptr)'],['../d5/de8/class_radio_packet.html#a818c3b80f8524bdb58e98605f1a8d40e',1,'RadioPacket::PrintPacketFlagBits(const uint8_t flagByte, char *flagBitLine=nullptr)']]],
+  ['printpacketheader_16',['PrintPacketHeader',['../d0/d71/class_packet_header.html#a561c437c38582c2b42c5a2257957c193',1,'PacketHeader::PrintPacketHeader(char *headerLine=nullptr)'],['../d0/d71/class_packet_header.html#a99aa4ca41bbba1161847c34886af3d65',1,'PacketHeader::PrintPacketHeader(const uint16_t header, char *headerLine=nullptr)']]],
   ['printpacketpayload_17',['PrintPacketPayload',['../d5/de8/class_radio_packet.html#ad0c910677213c9e7c1a8641a549c5fc3',1,'RadioPacket']]],
   ['printpacketsinbuffer_18',['PrintPacketsInBuffer',['../d8/dec/class_serial_interface.html#a2521188c0b35b2f38ef0a63c9b3343c4',1,'SerialInterface']]],
   ['printparsepacketerror_19',['PrintParsePacketError',['../d8/dec/class_serial_interface.html#a4325207c3ef54acf6b11ce1e907a1414',1,'SerialInterface']]],
-  ['printreadingsaccel_20',['PrintReadingsAccel',['../dd/d3c/class_i_m_u.html#a344c53c3f11116e22d4901bd4d01e10c',1,'IMU']]],
-  ['printreadingsgyro_21',['PrintReadingsGyro',['../dd/d3c/class_i_m_u.html#a2cac91a4d37e0583110263673f815a2f',1,'IMU']]],
-  ['push_5fback_22',['push_back',['../d5/db2/class_vector.html#a4415960a83615855ec32f8169f641786',1,'Vector']]]
+  ['printquaternion_20',['PrintQuaternion',['../d6/def/class_i_m_u__9_d_o_f.html#a8630af5c40f6cd8d3fc1a5b3cf25d5ea',1,'IMU_9DOF']]],
+  ['printreadingsaccel_21',['PrintReadingsAccel',['../d4/d8c/class_i_m_u__6_d_o_f.html#a7b660d94c3273c357ebb5085e7af2db7',1,'IMU_6DOF']]],
+  ['printreadingsgyro_22',['PrintReadingsGyro',['../d4/d8c/class_i_m_u__6_d_o_f.html#ad51b8b2f13dcaff3da4c4c96e779157e',1,'IMU_6DOF']]],
+  ['printreadingsmagnetometer_23',['PrintReadingsMagnetometer',['../d6/def/class_i_m_u__9_d_o_f.html#a5381e9742a2d855dea2c732e10d54eec',1,'IMU_9DOF']]],
+  ['push_5fback_24',['push_back',['../d5/db2/class_vector.html#a4415960a83615855ec32f8169f641786',1,'Vector']]]
 ];

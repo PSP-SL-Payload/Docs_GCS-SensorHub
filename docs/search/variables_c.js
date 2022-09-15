@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['temp_0',['temp',['../d2/d35/struct_altimeter_1_1_altimeter_readings.html#a3e0cd4b6032a7305f67c8aaf1d5e79bc',1,'Altimeter::AltimeterReadings']]],
-  ['tft_5fscreen_1',['tft_screen',['../dc/d76/_g_c_s_2_sensor_hub_2src_2main_8cpp.html#a13ae422963896e90a00bb1eafd92fe94',1,'main.cpp']]],
-  ['timedata_2',['timeData',['../d2/d55/union_radio_packet_1_1packet_payload_type.html#ad895443c99f4ae6f3cc853e0ba2ae80f',1,'RadioPacket::packetPayloadType']]],
-  ['timeout_5finfinity_3',['TIMEOUT_INFINITY',['../d8/dec/class_serial_interface.html#a2abf75ccabe2dd6dd38dc99a065738b0',1,'SerialInterface']]]
+  ['number_5fof_5fstored_5fnodes_0',['NUMBER_OF_STORED_NODES',['../d8/dec/class_serial_interface.html#a83067102ffb9f6bf59aae66775584a5b',1,'SerialInterface']]],
+  ['numsats_1',['numSats',['../dd/d56/struct_g_p_s_1_1gps_location.html#ad6d0240340126aed18cf84541c17cd44',1,'GPS::gpsLocation::numSats()'],['../d2/d1e/struct_packet_data_structures_1_1gps_coords_payload.html#ab562e76505f5cdc38c04c30377e7ac5e',1,'PacketDataStructures::gpsCoordsPayload::numSats()']]]
 ];
